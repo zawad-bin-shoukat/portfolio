@@ -196,7 +196,7 @@ const Hero = () => {
           className="flex items-center justify-center gap-4 mb-12"
         >
           <a
-            href="https://github.com/zawadttasin17"
+            href="https://github.com/zawad-bin-shoukat"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-xl bg-dark-100/50 border border-white/5 text-gray-400 

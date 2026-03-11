@@ -38,7 +38,7 @@ const Footer = () => {
           {/* Social Links */}
           <div className="flex items-center justify-end gap-3">
             <a
-              href="https://github.com/zawadttasin17"
+              href="https://github.com/zawad-bin-shoukat"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2.5 rounded-lg bg-dark-300/50 text-gray-500 hover:text-white 

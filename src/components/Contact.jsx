@@ -103,7 +103,7 @@ const Contact = () => {
             <h3 className="text-lg font-semibold text-white mb-4">Follow Me</h3>
             <div className="flex gap-3">
               <a
-                href="https://github.com/zawadttasin17"
+                href="https://github.com/zawad-bin-shoukat"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-dark-300/50 border border-white/5

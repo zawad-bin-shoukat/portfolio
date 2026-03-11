@@ -9,7 +9,7 @@ const projects = [
     description:
       'A Job Portal Web Application connecting companies with job aspirants. Features include job posting, application management, user profiles, and a streamlined recruitment workflow.',
     techStack: ['React', 'Node.js', 'Express', 'MongoDB'],
-    github: 'https://github.com/zawadttasin17/Career_Sync',
+    github: 'https://github.com/zawad-bin-shoukat/Career_Sync',
     live: '#',
     gradient: 'from-blue-500/10 to-cyan-500/10',
     accent: 'blue',
@@ -20,7 +20,7 @@ const projects = [
     description:
       'Simple Online Library Management System built using PHP, MySQL, and XAMPP. Users can browse, view, and download books without logging in, while the admin can manage the library through a secure login system.',
     techStack: ['PHP', 'MySQL', 'XAMPP', 'HTML/CSS'],
-    github: 'https://github.com/zawadttasin17/RDBMS-Library-Project',
+    github: 'https://github.com/zawad-bin-shoukat/RDBMS-Library-Project',
     live: '#',
     gradient: 'from-green-500/10 to-emerald-500/10',
     accent: 'green',
@@ -31,7 +31,7 @@ const projects = [
     description:
       'A web application designed to facilitate user critiques and reviews, likely focused on a particular domain of electronic devices. It provides users with a platform to submit, share, and discuss feedback through a collaborative online environment.',
     techStack: ['JavaScript', 'Node.js', 'Express', 'MongoDB'],
-    github: 'https://github.com/zawadttasin17/IUT-CritiqueHub',
+    github: 'https://github.com/zawad-bin-shoukat/IUT-CritiqueHub',
     live: '#',
     gradient: 'from-purple-500/10 to-violet-500/10',
     accent: 'purple',
@@ -42,7 +42,7 @@ const projects = [
     description:
       'Task listing and viewing application implemented in C++ with Object-Oriented Programming. Features clean architecture with proper encapsulation, inheritance, and modular design.',
     techStack: ['C++', 'OOP'],
-    github: 'https://github.com/zawadttasin17/symple_tasker',
+    github: 'https://github.com/zawad-bin-shoukat/symple_tasker',
     live: '#',
     gradient: 'from-pink-500/10 to-rose-500/10',
     accent: 'pink',
